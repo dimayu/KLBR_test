@@ -1,0 +1,17 @@
+.user {
+  width: 30%;
+  margin: 24px auto;
+  text-align: center;
+  border: 1px solid #161515;
+  border-radius: 20px;
+  box-sizing: border-box;
+  padding: 6px;
+
+  &__name {
+    font-size: 24px;
+  }
+
+  &__surname {
+    font-size: 18px;
+  }
+}
